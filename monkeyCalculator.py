@@ -7,7 +7,6 @@ def calculateTime():
         print("Uh Oh! We're in trouble!")
     else:
         print("Yay! We're ging to have a good day!")
-calculateTime()
 
     # end assignment
 
